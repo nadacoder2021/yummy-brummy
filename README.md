@@ -1,6 +1,6 @@
 # Yummy Brummy
 
-This is a recipe finder app!
+This is a recipe finder app! I've forked this from [my friend](https://github.com/chirazzzz) in School of Code 
 
 ## Table of Contents
 
